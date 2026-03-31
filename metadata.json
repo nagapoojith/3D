@@ -1,0 +1,5 @@
+{
+  "name": "Gesture-Controlled 3D Solar System",
+  "description": "A high-quality, real-time 3D solar system simulation controlled by your hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": ["camera"]
+}
